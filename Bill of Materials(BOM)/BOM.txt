@@ -1,0 +1,22 @@
+Item,Quantity,Price (Unit/Kit),Store
+
+F4 V3 PLUS Flight Controller,1,$50,AliExpress
+
+SpeedyBee TX800 5.8GHz VTX,1,$35,AliExpress
+
+Emax RS2205-2300KV Motors (4x Kit),1,$27,AliExpress
+
+Gemfan 5.1 inch 3-Blade Props (4x Kit),1,$4,AliExpress
+
+SpeedyBee Nano 2.4GHz RX,1,$13,AliExpress
+
+FPV Camera 1800TVL 5MP 1.9mm,1,$10,AliExpress
+
+M3 Screws Hardware Pack,1,$7,AliExpress
+
+CNHL LiPo Battery 4S 14.8V 1300mAh (2 PCS),1,$52,AliExpress
+
+PA12-CF Black Filament (0.25kg),1,$17,Amazon
+
+Estimated Shipping Costs,-,~$5,-
+TOTAL,,$220,
