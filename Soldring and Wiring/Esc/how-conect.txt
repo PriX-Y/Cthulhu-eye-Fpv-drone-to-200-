@@ -1,0 +1,22 @@
+First prepare:
+
+ESC
+
+Resistor
+
+4 Motors 
+
+red and black cable
+
+this yellow battery connector
+
+Solder 
+
+solder flux (no need it but it help so much)
+
+soldering iron
+
+At the beginning, to make the whole process easier, I would recommend adding some solder to each item you will be connecting.
+
+first we conect all motors like on schemat first from motor side conect to 
+
